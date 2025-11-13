@@ -33,7 +33,7 @@
 
 Наибольшая зависимость с оттоком наблюдается у признаков **Age**, **NumOfProducts**, **IsActiveMember** и **BalanceGeoDiff**.
 
-![](images/correlation_heatmap.png)
+![](images/phik_correlation.png)
 
 **Анализ распределений и взаимосвязей признаков показал ряд закономерностей:**
 
