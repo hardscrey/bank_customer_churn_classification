@@ -1,4 +1,4 @@
-# bank_customer_churn_prediction
+# bank_customer_churn_classification
 
 **Цели проекта:**
 - Провести анализ клиентской базы банка и построить модель, предсказывающую, покинет ли клиент банк;
